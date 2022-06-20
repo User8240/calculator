@@ -15,7 +15,7 @@ _This is a webpage written in HTML using JavaScript for functionality_
 
 ## Link to Site via GitHub Pages
 
-*_https://github.com/User8240/calculator.git_
+*_https://user8240.github.io/calculator/_
 
 ## Setup/Installation Requirements
 
