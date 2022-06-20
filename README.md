@@ -2,7 +2,7 @@
 
 #### By _**Grace Kostanich**_
 
-#### _This is a calculator._
+#### _A webpage that is also a calculator!_
 
 ## Technologies Used
 
